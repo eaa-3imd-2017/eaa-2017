@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## Projet Expérience Web EAA La Chaux-de-Fonds 2017
 
-You can use the [editor on GitHub](https://github.com/ms-studio/eaa-2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dates: 28 avril au 19 mai (4 sessions)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Proposition: 
 
-### Markdown
+L'objectif de ce cours sera de créer collectivement un site rassemblant des interviews avec des professionels du graphisme et design liés à l'EAA Cifom - des enseignant•e•s, intervenant•e•s, éventuellement alumnis de cette école.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Chaque participant•e : 
 
-```markdown
-Syntax highlighted code block
+* choisira une personne à interviewer.
+* réalisera l'interview et sa transcription.
+* concevra une mise en page graphique orginiale.
+* exécutera la programmation de cette page au format web (HTML/CSS).
 
-# Header 1
-## Header 2
-### Header 3
+L'interview sera mise en page au format web, dans une forme graphique libre qui peut comporter des des illustrations, des expérimentations typographiques. Il est souhaitable d'utiliser les possibilités actuelles de mise en page CSS: 
 
-- Bulleted
-- List
+* régions
+* grid layout
+* flexbox
+* webfonts
+* columns
 
-1. Numbered
-2. List
+Une page d'accueil commune permettra la navigation dans ce mini-site. Hébergement sur Github pages.
 
-**Bold** and _Italic_ and `Code` text
+### Planning:
 
-[Link](url) and ![Image](src)
-```
+#### Session 1:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Devoirs pour les étudiants:
+- réfléchir préalablement à la personne à interview
+- amener des exemples d'interviews dans le domaine du design / graphisme
 
-### Jekyll Themes
+* exposition du concept
+* choix des personnes à interviewer
+* établissement d'un calendrier (rendez-vous pour réalisation interview)
+* brainstorm, établissement d'un pool de questions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ms-studio/eaa-2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Session 2:
 
-### Support or Contact
+Devoirs pour les étudiants: 
+- réaliser l'interview
+- commencer la transcription
+- apporter concept graphique
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* CSS : rappel des bases
+* Github : prise en main
+* Github : création projet
+
+#### Session 3:
+
+Devoirs pour les étudiants: 
+- transcription achevée
+
+* CSS : media queries
+* CSS : flexbox
+* CSS : grid layout
+* CSS : regions
+
+#### Session 4:
+
+Devoirs pour les étudiants: 
+- transcription achevée
+
+* Finalisation
+* Debrief
+* Présentation publique, vernissage, apéro...
