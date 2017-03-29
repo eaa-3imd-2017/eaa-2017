@@ -31,6 +31,7 @@ Devoirs pour les étudiants:
 - réfléchir préalablement à la personne à interview
 - amener des exemples d'interviews dans le domaine du design / graphisme
 
+Programme:
 * exposition du concept
 * choix des personnes à interviewer
 * établissement d'un calendrier (rendez-vous pour réalisation interview)
@@ -43,6 +44,7 @@ Devoirs pour les étudiants:
 - commencer la transcription
 - apporter concept graphique
 
+Programme:
 * CSS : rappel des bases
 * Github : prise en main
 * Github : création projet
@@ -52,6 +54,7 @@ Devoirs pour les étudiants:
 Devoirs pour les étudiants: 
 - transcription achevée
 
+Programme:
 * CSS : media queries
 * CSS : flexbox
 * CSS : grid layout
@@ -60,8 +63,10 @@ Devoirs pour les étudiants:
 #### Session 4:
 
 Devoirs pour les étudiants: 
-- transcription achevée
+- rendu du projet
 
+Programme:
 * Finalisation
+* Dernière mise en ligne
 * Debrief
 * Présentation publique, vernissage, apéro...
