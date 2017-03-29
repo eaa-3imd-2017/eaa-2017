@@ -1,6 +1,6 @@
 ## Projet Expérience Web EAA La Chaux-de-Fonds 2017
 
-Dates: 28 avril au 19 mai (4 sessions)
+**Dates:** 28 avril au 19 mai (4 sessions)
 
 ### Proposition: 
 
