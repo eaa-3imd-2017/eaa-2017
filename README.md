@@ -23,7 +23,7 @@ L'interview sera mise en page au format web, dans une forme graphique libre qui 
 
 Une page d'accueil commune permettra la navigation dans ce mini-site. Hébergement sur Github pages.
 
-### Planning:
+<h3>Planning:</h3>
 
 #### Session 1:
 
