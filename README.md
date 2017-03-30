@@ -13,7 +13,7 @@ Chaque participant•e :
 * concevra une mise en page graphique orginiale.
 * exécutera la programmation de cette page au format web (HTML/CSS).
 
-L'interview sera mise en page au format web, dans une forme graphique libre qui peut comporter des des illustrations, des expérimentations typographiques. Il est souhaitable d'utiliser les possibilités actuelles de mise en page CSS: 
+L'interview sera mise en page au format web, dans une forme graphique libre qui peut comporter des illustrations, des expérimentations typographiques. Il est souhaitable d'utiliser les possibilités actuelles de mise en page CSS: 
 
 * régions
 * grid layout
@@ -21,15 +21,15 @@ L'interview sera mise en page au format web, dans une forme graphique libre qui 
 * webfonts
 * columns
 
-Une page d'accueil commune permettra la navigation dans ce mini-site. Hébergement sur Github pages.
+Une page d'accueil commune permettra la navigation dans ce mini-site. L'hébergement se fera sur Github pages.
 
 <h3>Planning:</h3>
 
 #### Session 1:
 
 Devoirs pour les étudiants:
-- réfléchir préalablement à la personne à interview
-- amener des exemples d'interviews dans le domaine du design / graphisme
+- réfléchir préalablement à la personne à interviewer
+- amener des exemples d'interviews (magazines, livres) dans le domaine du design / graphisme (exemple: [Ligature](http://ligature.ch/paper/))
 
 Programme:
 * exposition du concept
