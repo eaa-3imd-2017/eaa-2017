@@ -4,7 +4,7 @@
 
 ### Proposition: 
 
-L'objectif de ce cours sera de créer collectivement un site rassemblant des interviews avec des professionels du graphisme et design liés à l'EAA Cifom - des enseignant•e•s, intervenant•e•s, éventuellement alumnis de cette école.
+L'objectif de ce cours sera de créer collectivement un site rassemblant des interviews avec des professionels du graphisme et design liés à l'EAA La Chaux-de-Fonds - des enseignant•e•s, intervenant•e•s, éventuellement alumnis de cette école.
 
 Chaque participant•e : 
 
@@ -25,7 +25,7 @@ Une page d'accueil commune permettra la navigation dans ce mini-site. L'héberge
 
 <h3>Planning:</h3>
 
-#### Session 1:
+#### Session 1 (28 avril):
 
 Devoirs pour les étudiants:
 - réfléchir préalablement à la personne à interviewer
@@ -37,7 +37,7 @@ Programme:
 * établissement d'un calendrier (rendez-vous pour réalisation interview)
 * brainstorm, établissement d'un pool de questions
 
-#### Session 2:
+#### Session 2 (5 mai):
 
 Devoirs pour les étudiants: 
 - réaliser l'interview
@@ -49,7 +49,7 @@ Programme:
 * Github : prise en main
 * Github : création projet
 
-#### Session 3:
+#### Session 3 (12 mai):
 
 Devoirs pour les étudiants: 
 - transcription achevée
@@ -60,7 +60,7 @@ Programme:
 * CSS : grid layout
 * CSS : regions
 
-#### Session 4:
+#### Session 4 (19 mai):
 
 Devoirs pour les étudiants: 
 - rendu du projet
