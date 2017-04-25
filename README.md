@@ -27,22 +27,12 @@ Une page d'accueil commune permettra la navigation dans ce mini-site. L'héberge
 
 #### Session 1 (28 avril):
 
-Devoirs pour les étudiants:
-- réfléchir préalablement à la personne à interviewer
-- amener des exemples d'interviews (magazines, livres) dans le domaine du design / graphisme (exemple: [Ligature](http://ligature.ch/paper/))
-
 Programme:
-* exposition du concept
-* choix des personnes à interviewer
-* établissement d'un calendrier (rendez-vous pour réalisation interview)
-* brainstorm, établissement d'un pool de questions
+* CSS : rappel des bases
+* Github : prise en main
+* Github : création projet
 
 #### Session 2 (5 mai):
-
-Devoirs pour les étudiants: 
-- réaliser l'interview
-- commencer la transcription
-- apporter concept graphique
 
 Programme:
 * CSS : rappel des bases
@@ -50,9 +40,6 @@ Programme:
 * Github : création projet
 
 #### Session 3 (12 mai):
-
-Devoirs pour les étudiants: 
-- transcription achevée
 
 Programme:
 * CSS : media queries
@@ -62,6 +49,10 @@ Programme:
 
 #### Session 4 (19 mai):
 
+
+
+#### Session 5 (2 juin):
+
 Devoirs pour les étudiants: 
 - rendu du projet
 
@@ -69,4 +60,3 @@ Programme:
 * Finalisation
 * Dernière mise en ligne
 * Debrief
-* Présentation publique, vernissage, apéro...
