@@ -13,6 +13,8 @@ Vous serez également formés à l'utilisation de **Github**, un outil qui facil
 
 ### Planning
 
+![Plan des sessions](seminaire-web-sessions.png)
+
 #### Session 1 (28 avril):
 
 Programme:
