@@ -1,62 +1,47 @@
 ## Projet Expérience Web EAA La Chaux-de-Fonds 2017
 
-**Dates:** 28 avril - 19 mai (4 sessions)
+**Dates:** 28 avril - 19 mai (4 sessions)  
+**Horaire:** de 8h05 à 12h05
 
 ### Proposition: 
 
-L'objectif de ce cours sera de créer collectivement un site rassemblant des interviews avec des professionels du graphisme et design liés à l'EAA La Chaux-de-Fonds - des enseignant•e•s, intervenant•e•s, éventuellement alumnis de cette école.
+L'objectif de ce cours est d'approfondir vos connaissances en **développement web**, en travaillant sur la création de sites dans le cadre de votre projet d'examen de fin d'année.
 
-Chaque participant•e : 
+En particulier, le séminaire vise à prendre en main les possibilités actuelles de mise en page CSS, et de les utiliser dans vos projets. Cela comprend les modules **CSS regions**, **CSS Grid** et **Flexbox**.
 
-* choisira une personne à interviewer.
-* réalisera l'interview et sa transcription.
-* concevra une mise en page graphique orginiale.
-* exécutera la programmation de cette page au format web (HTML/CSS).
+Vous serez également formés à l'utilisation de **Github**, un outil qui facilite le partage de code, la documentation et la communication.
 
-L'interview sera mise en page au format web, dans une forme graphique libre qui peut comporter des illustrations, des expérimentations typographiques. Il est souhaitable d'utiliser les possibilités actuelles de mise en page CSS: 
-
-* régions
-* grid layout
-* flexbox
-* webfonts
-* columns
-
-Une page d'accueil commune permettra la navigation dans ce mini-site. L'hébergement se fera sur Github pages.
-
-<h3>Planning:</h3>
+### Planning
 
 #### Session 1 (28 avril):
 
 Programme:
 * CSS : rappel des bases
-* Github : prise en main
-* Github : création projet
+* Typographie web
+* Git + GitHub : prise en main
 
 #### Session 2 (5 mai):
 
 Programme:
-* CSS : rappel des bases
-* Github : prise en main
-* Github : création projet
+* CSS : Layout Revolutions
+* CSS Flexbox, CSS Grid Layout, CSS Regions...
 
 #### Session 3 (12 mai):
 
 Programme:
-* CSS : media queries
-* CSS : flexbox
-* CSS : grid layout
-* CSS : regions
+* Standards - the design of HTML5
+* Git + GitHub : part 2
 
 #### Session 4 (19 mai):
 
-
+Programme:
+* Canvas + JavaScript : librairies JavaScript pour le dessin vectoriel (P5.js, Paper.js ...)
 
 #### Session 5 (2 juin):
 
-Devoirs pour les étudiants: 
-- rendu du projet
-
 Programme:
-* Finalisation
-* Dernière mise en ligne
-* Debrief
+* Atomic Design, Pattern Lab : outils pour un design web systématique et organisé
+
+## Ressources
+
+* Support de cours: [cours-web.ch](http://cours-web.ch/)
